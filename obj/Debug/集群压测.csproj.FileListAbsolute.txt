@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\集群压测.exe.config
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\集群压测.exe
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\集群压测.pdb
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\Log4cs.dll
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\Log4cs.pdb
+C:\Users\Administrator\source\repos\集群压测\obj\Debug\集群压测.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\集群压测\obj\Debug\集群压测.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\集群压测\obj\Debug\集群压测.csproj.CopyComplete
+C:\Users\Administrator\source\repos\集群压测\obj\Debug\集群压测.exe
+C:\Users\Administrator\source\repos\集群压测\obj\Debug\集群压测.pdb
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\DotNetZip.dll
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\DotNetZip.pdb
+C:\Users\Administrator\source\repos\集群压测\bin\Debug\DotNetZip.xml
